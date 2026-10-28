@@ -1,0 +1,11 @@
+.venv
+.git
+.env
+__pycache__
+.pytest_cache
+*.pyc
+data/docfusion.db
+data/uploads/*
+data/generated/*
+data/verification/*
+data/keys/*
